@@ -10,6 +10,8 @@ ansible --version
 
 git clone https://github.com/noalotan/Install-Packages.git
 
+cd Install-Packages
+
 ansible-playbook install-git-docker-jenkins.yml
 
 **copy & paste**

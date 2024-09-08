@@ -8,7 +8,7 @@ ansible --version
 
 **clone the repo & run the ansible playbook**
 
-git clone <git_url>
+git clone https://github.com/noalotan/Install-Packages.git
 
 ansible-playbook install-git-docker-jenkins.yml
 
